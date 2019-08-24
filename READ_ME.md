@@ -36,12 +36,30 @@ to have access to the website managing the bitz API (not implemented for these t
 
 ## The tasks
 
+The following tasks can be completed also in more days and each one separately.
+In case there are issues at running the software, do not hesitate to contact me directly.
+
 ### Zero task: install Docker and answer the first survey
+
+The first task, if you have not done it already, is to install Docker and get the software running.
+To do so, follow the paragraphs "Getting started with Docker" and "Running the software".
+
+Important is to then reply to the following surveys (about 15 questions each).
+The aim of the first survey is to know which tools are commonly available to the maintainers and the way to receive new information they are more comfortable with.
+The aim of the second one is to evaluate the outcome of the installation and the running of the software.
+Remember: is the software that is being evaluated, not you. Feel free to make mistakes, not being able to complete the tasks and having doubts... This means not that you are not able to accomplish it, but that the software and its documentation is not designed to allow you to do it. :)
+
+Survey 1: https://forms.gle/3398agKymgiCKBiB7
+Survey 2: https://forms.gle/ueatWAVpq9W6KG3f7
 
 ### First task: add a Wordpress website
 
+Survey: https://forms.gle/eGRN4Zz7UKs5kd72A
+
 ### Second task: add a Flask custom container
+
+Survey: https://forms.gle/qSM6Lf2aQGaA1wLU7
 
 ### Third task: modify a custom container
 
-## The survey
+Survey: https://forms.gle/3urYEXNig2pYVQk88
