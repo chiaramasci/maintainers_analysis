@@ -5,7 +5,7 @@
 In order to continue, you have to install Docker on your computer.
 Can be helpful reading a bit about how Docker works and its basic concepts
 
-Install Docker: docs.docker.com/install/
+Install Docker: docs.docker.com/install/ <br>
 Docker concepts: docs.docker.com/get-started/
 
 ## Running the software
@@ -42,13 +42,13 @@ In order to shut down the software, press CTRL + C on the command line and then 
 
 ## The tasks
 
-The following tasks can be completed also in more days and each one separately.
-In case there are issues at running the software, do not hesitate to contact me directly.
-You can use any resource that you wish to complete the tasks: internet, books, asking people...
+The following tasks can be completed also in more days and each one separately. <br>
+In case there are issues at running the software, do not hesitate to contact me directly. <br>
+You can use any resource that you wish to complete the tasks: internet, books, asking people... <br>
 The most important thing is that you answer to the survey honestly and the most precisely as possible; by doing this
 you are contributing to making software that is based also on the developers' needs.
 
-Remember: the software is the one that is being evaluated, not you. Feel free to make mistakes, not being able to complete the tasks and having doubts...
+Remember: the software is the one that is being evaluated, not you. Feel free to make mistakes, not being able to complete the tasks and having doubts... <br>
 This means not that you are not able to accomplish it, but that the software and its documentation are not as good as they could be :)
 
 ### Zero task: install Docker and answer the first survey
