@@ -14,16 +14,14 @@ services:
   # - bitz_access
 
   bitz_access:
-    build: ./bitz_access/
+    build: .
     environment:
       VIRTUAL_HOST: bitz_access.localhost
       VIRTUAL_PORT: 80
-    ports:
-      - 5000
     expose:
       - 5000
     volumes:
-      - ./bitz_access/code
+      - .:/code
 
   # FILE SHARING CONTAINERS:
   # - nextcloud_db

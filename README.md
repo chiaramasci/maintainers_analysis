@@ -34,6 +34,12 @@ to see the online cloud and
 
 to have access to the website managing the bitz API (not implemented for these tasks)
 
+## Shut down the software
+
+In order to shut down the software, press CTRL + C on the command line and then execute the following command
+
+    docker-compose down
+
 ## The tasks
 
 The following tasks can be completed also in more days and each one separately.
@@ -63,7 +69,9 @@ The first task is to add a Wordpress container for making an homepage.
 The homepage has to reacheable with the following link: homepage.localhost
 You can use the already build Wordpress container on the Docker Hub (https://hub.docker.com/_/wordpress/) and add the code in the docker-compose.yml file
 
-Survey: https://forms.gle/eGRN4Zz7UKs5kd72A
+You can then complete the third survey in order to give me a feedback about the experience (4 questions)
+
+Survey 3: https://forms.gle/eGRN4Zz7UKs5kd72A
 
 ### Second task: add a Flask custom container
 
@@ -71,7 +79,8 @@ The second task is similar to the previous one, but it might be that you will en
 There is the need of a Flask container in order to create an API; your job is to create this container so that when api.localhost/hello is typed is in the browser
 on the screen there is "super cool API".
 
-Survey: https://forms.gle/qSM6Lf2aQGaA1wLU7
+You can then complete the fourth survey in order to give me a feedback about the experience (4 questions)
+Survey 4: https://forms.gle/qSM6Lf2aQGaA1wLU7
 
 ### Third task: modify a custom container
 
@@ -79,4 +88,9 @@ The last task is related to the container bitz_access already existing.
 It is a Flask container which works as an API for a Raspberry Pi.
 The aim is to obtain on the screen "Cool, I have done it" when bitz_access.localhost/yes is searched in the browser
 
-Survey: https://forms.gle/3urYEXNig2pYVQk88
+You can then complete the fifth survey in order to give me a feedback about the experience (4 questions)
+Survey 5: https://forms.gle/3urYEXNig2pYVQk88
+
+## In case of doubts or issues, contact me :)
+
+## I thank you for your help and time
