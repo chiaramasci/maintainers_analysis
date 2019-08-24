@@ -38,6 +38,12 @@ to have access to the website managing the bitz API (not implemented for these t
 
 The following tasks can be completed also in more days and each one separately.
 In case there are issues at running the software, do not hesitate to contact me directly.
+You can use any resource that you wish to complete the tasks: internet, books, asking people...
+The most important thing is that you answer to the survey honestly and the most precisely as possible; by doing this
+you are contributing to making software that is based also on the developers' needs.
+
+Remember: the software is the one that is being evaluated, not you. Feel free to make mistakes, not being able to complete the tasks and having doubts...
+This means not that you are not able to accomplish it, but that the software and its documentation are not as good as they could be :)
 
 ### Zero task: install Docker and answer the first survey
 
@@ -47,19 +53,30 @@ To do so, follow the paragraphs "Getting started with Docker" and "Running the s
 Important is to then reply to the following surveys (about 15 questions each).
 The aim of the first survey is to know which tools are commonly available to the maintainers and the way to receive new information they are more comfortable with.
 The aim of the second one is to evaluate the outcome of the installation and the running of the software.
-Remember: is the software that is being evaluated, not you. Feel free to make mistakes, not being able to complete the tasks and having doubts... This means not that you are not able to accomplish it, but that the software and its documentation is not designed to allow you to do it. :)
 
 Survey 1: https://forms.gle/3398agKymgiCKBiB7
 Survey 2: https://forms.gle/ueatWAVpq9W6KG3f7
 
 ### First task: add a Wordpress website
 
+The first task is to add a Wordpress container for making an homepage.
+The homepage has to reacheable with the following link: homepage.localhost
+You can use the already build Wordpress container on the Docker Hub (https://hub.docker.com/_/wordpress/) and add the code in the docker-compose.yml file
+
 Survey: https://forms.gle/eGRN4Zz7UKs5kd72A
 
 ### Second task: add a Flask custom container
 
+The second task is similar to the previous one, but it might be that you will encounter some differences.
+There is the need of a Flask container in order to create an API; your job is to create this container so that when api.localhost/hello is typed is in the browser
+on the screen there is "super cool API".
+
 Survey: https://forms.gle/qSM6Lf2aQGaA1wLU7
 
 ### Third task: modify a custom container
+
+The last task is related to the container bitz_access already existing.
+It is a Flask container which works as an API for a Raspberry Pi.
+The aim is to obtain on the screen "Cool, I have done it" when bitz_access.localhost/yes is searched in the browser
 
 Survey: https://forms.gle/3urYEXNig2pYVQk88
